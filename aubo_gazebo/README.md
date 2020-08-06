@@ -12,7 +12,7 @@
 
 **6.sudo apt-get install ros-kinetic-position-controllers**  
 
-**7.sudo apt-get install ros-kinetic-control-manager**
+**7.sudo apt-get install ros-kinetic-controller-manager**
 
 
 
